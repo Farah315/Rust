@@ -65,4 +65,4 @@ cargo run
 
 Feel free to fork this project, submit pull requests, or open issues for any bugs or suggestions.
 
-###Enjoy and stay secure with Farah 🐈
+Enjoy and stay secure with Farah 🐈

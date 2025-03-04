@@ -5,7 +5,6 @@ use crossterm::{
     cursor, event::{self, Event, KeyCode}, execute, style::{self, Color, StyledContent, Stylize}, terminal,
 };
 use rand::Rng;
-
 #[derive(Copy, Clone, PartialEq)]
 enum Direction {
     Up,
